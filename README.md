@@ -21,7 +21,7 @@ Game modes only limited to EPG, and FFA in various maps.
 ## How do I install?
 
 
-First, download the latest release [here!](https://github.com/poet5/EPGAssBlast/releases/download/0.0.1/EPGAssBlast.Trinity.zip)
+First, download the latest release [here!](https://github.com/poet5/EPGAssBlast/releases/download/1.0.0/EPGAssBlast.Trinity.zip)
 
 
 
