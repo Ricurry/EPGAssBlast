@@ -1,0 +1,14 @@
+{
+	"Name": "EPGAssBlast.Trinity",
+	"Description": "Title says it all. Only for the mentally ill. Based off the quake Trinity mod.",
+	"Version": "1.1.9",
+	"LoadPriority": 2,
+	"RequiredOnClient": true,
+	"Scripts": [{
+		"Path": "gamemodes/_gamemode_blastass.nut",
+		"RunOn": "SERVER && MP",
+		"ServerCallback": {
+			"After": "AssBlastFFA_init"
+		}
+	}]
+}

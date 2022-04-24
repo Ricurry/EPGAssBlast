@@ -1,0 +1,15 @@
+WeaponData 
+{
+    "fire_rate"   									"1000"
+    "projectile_launch_speed"						"2000"
+	"projectile_gravity_scale"						"0.3"
+    "impulse_force"									"999999"
+	"impulse_force_explosions"						"999999"
+
+    MP_BASE
+    {
+        "explosionradius"                           "1000"
+        "ammo_no_remove_from_clip"                      "1"
+        "ammo_no_remove_from_stockpile"                 "1"
+    }
+}
