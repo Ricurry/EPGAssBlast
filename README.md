@@ -1,3 +1,29 @@
-# EPGAssBlast
-A Titanfall|2 Mod I have made for NorthStar; Increased explosion radius for the EPG, and higher fire-rate for pure madness.
-Some things copied from the UnholyTrinity mod, so things like increased movement are there too.
+# 								     EPG Ass Boost v0.0.1.
+
+
+
+![](C:\Users\omanb\Documents\Untitled.png)
+
+## What is Ass Boost?
+
+#### Increased fire rate and explosion radius with the EPG, designed for pure madness.
+
+Game modes only limited to EPG, and FFA in various maps.
+
+
+
+## How do I install?
+
+
+
+First, download the latest release [here!](https://github.com/poet5/EPGAssBlast/releases/download/0.0.1/EPGAssBlast.Trinity.zip)
+
+
+
+#### To install..
+
+- Extract the ZIP file. (There should be one folder.)
+- Place the folder in C:/GameDirectory/R2Northstar/mods
+- Join a match hosted by someone with the mod.
+- Enjoy!
+
