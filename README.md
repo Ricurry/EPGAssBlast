@@ -3,6 +3,9 @@
 
 
    ![](https://raw.githubusercontent.com/poet5/EPGAssBlast/main/icon.png)
+   
+   
+![GitHub repo size](https://img.shields.io/github/repo-size/poet5/EPGAssBlast?logoColor=red&style=for-the-badge)
 
 ## What is Ass Boost?
 
