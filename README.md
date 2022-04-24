@@ -2,7 +2,7 @@
 
 
 
-![](C:\Users\omanb\Documents\Untitled.png)
+![](https://raw.githubusercontent.com/poet5/EPGAssBlast/main/icon.png)
 
 ## What is Ass Boost?
 
